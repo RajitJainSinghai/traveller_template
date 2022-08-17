@@ -1,5 +1,5 @@
 # traveller_template
-Check out [LIVE DEMO](https://cooltease-frontend.herokuapp.com/) here!!
+Check out [LIVE DEMO](https://travelate.netlify.app/) here!!
 
-![Screenshot of my project](https://res.cloudinary.com/rajitcloud/image/upload/v1652854954/image_g18hls.png)
+![Screenshot of my project](https://res.cloudinary.com/rajitcloudintenim/image/upload/v1660734467/TRAVELLER_wckjoc.png)
 
